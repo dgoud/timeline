@@ -47,7 +47,21 @@
         font-size: 2.375em;
     }
 
-
+    .common-bg-container {
+        padding:15px;
+    }
+    .common-bg-container .goback {
+        margin-bottom: 20px;
+    }
+    .para-content {
+        margin-bottom: 20px;
+    }
+    .r-image {
+        margin-top: 0px;
+    }
+    .year-title {
+        margin-top: 30px;
+    }
 
 
 
