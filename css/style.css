@@ -490,6 +490,48 @@ header {
     background-size: 100%;
 }
 
+.bhamnibg_bg {
+    background: url(../images/pages/bhamnibg.jpg); 
+    background-size: 100%;
+}
+.bhamni_storybg {
+    background: url(../images/pages/bhamni_storybg.jpg); 
+    background-size: 100%;
+}
+
+.vijaynagar_bg {
+    background: url(../images/pages/vijaynagar.jpg); 
+    background-size: 100%;
+}
+.vijaynagar_storybg {
+    /* background: url(../images/pages/bhamni_storybg.jpg);  */
+    background-size: 100%;
+    background-color: #0047A9;
+}
+.mughal_empire_bg {
+    background: url(../images/pages/mughal_empire.jpg); 
+    background-size: 100%;
+}
+.mughal_empire_story {
+    background: url(../images/pages/mughal_empire_storybg.jpg); 
+    background-size: 100%;
+}
+.somavansis_bg {
+    background: url(../images/pages/somavansis_bg.jpg); 
+    background-size: 100%;
+}
+.somavansis_story {
+    background: url(../images/pages/somvinas_story.jpg); 
+    background-size: 100%;
+}
+.delhi_sultanatbg {
+    background: url(../images/pages/delhi_sultanatbg.jpg); 
+    background-size: 100%;
+}
+.delhi_sultanatbg_story {
+    background: url(../images/pages/delhi_sultanat_storybg.jpg); 
+    background-size: 100%;
+}
 
 .right .column {
     padding-left: 0px !important;
@@ -787,8 +829,13 @@ header {
 .report-list {
       margin-left: 15px; margin-bottom: 20px; list-style: auto;
   }
-.report-list li {
-     line-height: 20px;
+.report-list li, .report-list-disc li {
+     line-height: 1.75em;
+}
+.report-list-disc {
+    list-style: disc; 
+    margin-left:30px;
+    margin-bottom: 20px;
 }
 
 .para-content {
